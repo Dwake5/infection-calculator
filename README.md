@@ -14,3 +14,5 @@ I saw this as a good programming puzzle to attempt, to calculate the end classro
 The board is the classroom
 1 is an infected student 
 0 is an uninfected student
+
+Link to video: https://youtu.be/PbJaOaXthhk?t=113
